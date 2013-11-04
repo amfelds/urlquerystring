@@ -1,0 +1,31 @@
+﻿body
+{
+}
+
+#homeButton
+{
+    cursor: pointer;
+}
+
+#blankParamBlock
+{
+}
+
+#showQueryResultBlock
+{
+    display: none;
+}
+
+.listImg
+{
+    border: 1px groove blue;
+    padding: 8px;
+    width: 200px;
+    float: left;
+    cursor: pointer;
+}
+
+.selectedImg
+{
+    width: 100%;
+}
