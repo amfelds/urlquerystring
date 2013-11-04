@@ -16,6 +16,7 @@ $(function () {
     imgList['3'] = "http://i.imgur.com/k75LJdh.jpg";
     imgList['4'] = "http://i.imgur.com/mdR3f0P.jpg";
 
+    // Thanks to http://snipplr.com/view/19838/get-url-parameters/
     function getUrlVars() {
         var map = {};
         var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
